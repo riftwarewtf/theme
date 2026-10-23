@@ -46,25 +46,25 @@
       "#FFFFFF"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#000000"
+      "#0D0706"
     ],
     "CHAT_BACKGROUND": [
-      "#000000"
+      "#0D0706"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "#0D0706"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000"
+      "#0D0706"
     ],
     "BG_BASE_PRIMARY": [
-      "#000000"
+      "#0D0706"
     ],
     "HOME_BACKGROUND": [
-      "#000000"
+      "#0D0706"
     ],
     "STATUS_DANGER_TEXT": [
-      "#000000"
+      "#0D0706"
     ],
     "BACKGROUND_FLOATING": [
       "#000000"
@@ -266,13 +266,13 @@
     "PRIMARY_730": "#FFFFFF",
     "ROLE_DEFAULT": "#FFFFFF",
     "WHITE_630": "#FFFFFF",
-    "PLUM_17": "#000000",
-    "PLUM_20": "#000000",
-    "PLUM_24": "#000000",
-    "PLUM_25": "#000000",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_DARK_700": "#000000",
-    "PRIMARY_DARK_800": "#000000",
+    "PLUM_17": "#0D0706",
+    "PLUM_20": "#0D0706",
+    "PLUM_24": "#0D0706",
+    "PLUM_25": "#0D0706",
+    "PRIMARY_600": "#0D0706",
+    "PRIMARY_DARK_700": "#0D0706",
+    "PRIMARY_DARK_800": "#0D0706",
     "PLUM_16": "#000000",
     "PLUM_19": "#000000",
     "PLUM_21": "#000000",
@@ -309,8 +309,8 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1029064811495030907/1555626648580136960/HWAIEX.png?ex=6ac135b7&is=6abfe437&hm=f695def78a12edb9b6001096197419622cd1f5b96f37908de29b864d45d67153&",
-    "alpha": 0.53,
+    "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/12/11/69ab1d12-7726-42e1-8dc7-b5bb852239f6_4374b254.jpg",
+    "alpha": 1,
     "size": "cover",
     "position": "center"
   }
